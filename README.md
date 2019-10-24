@@ -28,5 +28,10 @@ https://www.kaggle.com/noriuk/us-education-datasets-unification-project
    * Comparison of the Enrollement from one Gender to the other in terms of enrollment
  * Make powerpoint slides for final presentation
 
+### Entire Analysis
+![images](images/part1.png)
 
+![images](images/part2.png)
+
+![images](images/part3.png)
 
